@@ -18,16 +18,16 @@ After completing this lab, you should be able to:
 - navigate the directory structure in the project
 - contribute to web docs online
 
-## TODOs
+## Actions
 
-Summary of TODOs. Details are below:
+Details are below:
 
-0. TODO: in GitHub, go to settings>pages (you can add /settings/pages to the url)
+0. In GitHub, go to settings>pages (you can add /settings/pages to the url)
    Under branch, click  `main` and then `save`. Refresh after 30 seconds to get live link!
-1. TODO: Clone your repo using git, and open the project in Spyder
+1. Clone your repo using git, and open the project in Spyder
    following steps from last lab
-2. TODO: Add analytics to the site
-3. TODO: Submit work to GitHub using git
+2. Add analytics to the site
+3. Submit work to GitHub using git
 4. TODO: Update this website with content!
 5. TODO: Submit work to GitHub using git
 6. TODO: Review your colleagues' restaurants/sports sites and write two short reviews
@@ -37,19 +37,19 @@ Summary of TODOs. Details are below:
 
 ## How to clone your repo
 
-- TODO: in GitHub, copy the SSH link to your repo from the green `code` button
-- TODO: Open a terminal
-- TODO: `cd` to a location where you would like to store lab 5
-- TODO: type `git clone` then paste in the link
-- TODO: in spyder, open a new project from existing directory.
+- In GitHub, copy the SSH link to your repo from the green `code` button
+- Open a terminal
+- `cd` to a location where you would like to store lab 5
+- Type `git clone` then paste in the link
+- In spyder, open a new project from existing directory.
   - navigate to this lab and then hit create. You should then see all your files
     in the left hand panel. There are no code cells to run, but you can edit
     Markdown.
 
 ## How to add analytics to this website
 
-- TODO: in the `_config.yml`, add your Google Analytics tracking ID on line 5
-- TODO: submit your changes to GitHub
+- In the `_config.yml`, add your Google Analytics tracking ID on line 5
+- Submit your changes to GitHub
   - See below for `How to push your work onto GitHub`
 
 ## How to update this website with content
