@@ -20,7 +20,7 @@ After completing this lab, you should be able to:
 
 ## TODOs
 
-Summary of TODOs. Details are below
+Summary of TODOs. Details are below:
 
 0. TODO: in GitHub, go to settings>pages (you can add /settings/pages to the url)
    Under branch, click  `main` and then `save`. Refresh after 30 seconds to get live link!
