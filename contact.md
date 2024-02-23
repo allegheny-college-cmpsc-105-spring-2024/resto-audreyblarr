@@ -5,6 +5,12 @@ permalink: /contact
 nav: true
 ---
 
-- TODO: fill in fake contact information for the business
-- TODO: create heading for `Hours`
-- Optional: perhaps fake address, hours, phone, reservation instructions...
+# Contact us!
+
+For any questions, feedback, or to place a takeout order, call: (123) 456-7890
+*NOTE: We do not take reservations. Apologies for any inconvenience.
+
+## Business Hours:
+
+Sunday-Thursday: 12PM-9PM
+Friday & Saturday: 11PM-10PM
