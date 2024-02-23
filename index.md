@@ -16,12 +16,12 @@ title: "about"
 
 ![logo](./assets/images/food-image.png)
 
-Audrey's Appetizers
-123 Elm St.
+Audrey's Appetizers <br>
+123 Elm St. <br>
 Buffalo, NY 14264
 
 ## <span style="color:green">Reviews</span>
 
-*"This restaurant has something for __anybody__ and __everybody__!" -New York Times*\n
+*"This restaurant has something for __anybody__ and __everybody__!" -New York Times* <br>
 *"Such __great quality__ food in such a __little package!__" -Buffalo News*
 
