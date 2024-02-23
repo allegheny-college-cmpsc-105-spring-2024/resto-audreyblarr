@@ -5,17 +5,14 @@ permalink: /menu
 nav: true
 ---
 
-## menu
+## Menu
 
-this is the menu
+### Fan Favorites
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+#### Audrey's App Sampler
 
-### menu item 1
+- $15
 
-#### lettuce
+Our app sampler features an array of our most popular appetizers! Includes boneless chicken wings with your choice of sauce (mild, medium, buffalo, hot, or BBQ), mozzarella sticks, cheese quesadilla (add chicken +$1.50), and our homemade spinach and artichoke dip accompanied with tortilla chips.
 
-- price: $100
-
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+![sampler](assets/images/app_sampler.jpg)

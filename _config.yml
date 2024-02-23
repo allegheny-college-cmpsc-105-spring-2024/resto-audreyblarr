@@ -1,9 +1,9 @@
-# TODO: replace the title with the name of your restaurant!
-title: "Data Exploration Blog"
-# TODO: write your restaurateur alter ego name below, or your own name
-author: 
-# TODO: write your Google Analytics tracking ID below
-google_analytics: G-FDG725B6FJ
+# replace the title with the name of your restaurant!
+title: "Audrey's Appetizers"
+# write your restaurateur alter ego name below, or your own name
+author: "Audrey Blarr"
+# write your Google Analytics tracking ID below
+google_analytics: G-D0J0DG0MBV
 
 theme: minima
 
