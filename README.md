@@ -90,7 +90,7 @@ different sources of data contributing to the analytics automatic dashboards.
 If you were a real restaurant owner, explain how this information could help
 you improve your business and why you came to your conclusions.
 
-- TODO: submit your changes to GitHub
+- submit your changes to GitHub
   - See below for `How to push your work onto GitHub`
 
 ## How to push your work onto GitHub
