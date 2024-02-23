@@ -20,7 +20,7 @@ Audrey's Appetizers <br>
 123 Elm St. <br>
 Buffalo, NY 14264
 
-## <span style="color:green">Reviews</span>
+# Reviews
 
 *"This restaurant has something for __anybody__ and __everybody__!" -New York Times* <br>
 *"Such __great quality__ food in such a __little package!__" -Buffalo News*
