@@ -28,8 +28,8 @@ Details are below:
    following steps from last lab
 2. Add analytics to the site
 3. Submit work to GitHub using git
-4. TODO: Update this website with content!
-5. TODO: Submit work to GitHub using git
+4. Update this website with content!
+5. Submit work to GitHub using git
 6. TODO: Review your colleagues' restaurants/sports sites and write two short reviews
 7. TODO: Submit work to GitHub using git
 8. TODO: Check your analytics and make an additional post about the meaning of the data you see
