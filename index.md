@@ -23,5 +23,7 @@ Buffalo, NY 14264
 # Reviews
 
 *"This restaurant has something for __anybody__ and __everybody__!" -New York Times* <br>
-*"Such __great quality__ food in such a __little package!__" -Buffalo News*
+*"Such __great quality__ food in such a __little package!__" -Buffalo News* <br>
+*"One thing is for sure every time you decide to visit Audrey’s, you will be leaving with a belly full of delicious food and memories of a good time." -Cade* <br>
+
 
