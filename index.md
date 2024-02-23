@@ -3,16 +3,6 @@ layout: post
 title: "about"
 ---
 
-
-- TODO: As a place holder, add a heading at the end for `Reviews` and make up two quotes to
-  put in this section.
-  - Use Markdown syntax for the quotes.
-  - after the review phase, you can replace this with two real quotes from your fellow
-  food critics.
-- TODO: finish up by removing _all_ unneeded material below line 6.
-
-![logo](./assets/images/magnifying-glass-logo.jpeg){:width="200"}
-
 # Audrey's Appetizers
 
 ## <span style="color:green">About</span>
@@ -32,6 +22,6 @@ Buffalo, NY 14264
 
 ## <span style="color:green">Reviews</span>
 
-*"This restaurant has something for __anybody__ and __everybody__!" -New York Times*
+*"This restaurant has something for __anybody__ and __everybody__!" -New York Times*\n
 *"Such __great quality__ food in such a __little package!__" -Buffalo News*
 
